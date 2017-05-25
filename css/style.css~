@@ -1,0 +1,81 @@
+.divrosa {
+    background-color:#FF6666;
+}
+
+.font-1 {
+   font-family: 'fontastique'; src: url ('fonts/fontastique.ttf');
+   font-weight: normal;
+   font-style:normal; 
+}
+
+.font-2 {
+    font-family: 'advent'; src: url ('fonts/advent.otf');
+    font-weight: normal;
+    font-style:normal; 
+}
+
+.card {
+    padding: 20px;
+    color: ;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 8px;
+}
+
+.card > span {
+    font-size: 60pt;
+}
+
+.imgserv{
+ width:200px;
+ height:200px
+
+}
+
+.footer {
+background-color:#333;
+padding:10px;
+color:#fff;
+}
+
+.footer span {
+font-size:12pt;
+}
+
+.blog-data {
+ background-color:#FF6666;
+ color: #fff;
+ border-radius: 3px;
+}
+
+.blog-data .dia {
+ font-size: 36pt;
+}
+
+.blog-data .mes{
+ font-size: 12pt;
+}
+
+.blog-autor {
+ font-size: 20pt;
+ color: #FF6666;
+}
+
+.blog-previa {
+ font-size: 16pt;
+}
+
+.imgprevia {
+ width:400px;
+ height:300px;
+}
+
+.post-nav span {
+ font-size: 30pt;
+}
+
+.post-nav {
+ background-color:#FF6666;
+ padding-top:20px;
+ padding-bottom:20px;
